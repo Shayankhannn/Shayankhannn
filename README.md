@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ✏️ I love building sleek, performant, and dynamic web interfaces using modern frontend technologies. Whether it's smooth GSAP animations, complex Next.js applications, or interactive Three.js experiences, I enjoy making the web more engaging.
 
 *   🌍  I'm based in Pakistan
-*   🖥️  See my portfolio at [shayankhanportfolio](http://shayankhanportfolio.web.app)
+*   🖥️  See my portfolio at [shayankhanportfolio](http://shayankhanportfolio.vercel.app)
 *   ✉️  You can contact me at [shayankhanyousufzai@gmail.com](mailto:shayankhanyousufzai@gmail.com)
 *   🚀  I'm currently working on [Multilingual Dynamic Next Js Application](http://#)
 *   🧠  I'm learning Three Js to improve my 3d skills
