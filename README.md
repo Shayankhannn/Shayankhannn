@@ -9,8 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🌍  I'm based in Pakistan
 *   🖥️  See my portfolio at [shayankhanportfolio](http://shayankhanportfolio.vercel.app)
 *   ✉️  You can contact me at [shayankhann077@gmail.com](mailto:shayankhann077@gmail.com)
-*   🚀  I'm currently working on [Multilingual Dynamic Next Js Application](http://#)
-*   🧠  I'm learning Three Js to improve my 3d skills
+*   🚀  I'm currently working on [Backend Hiring Software](http://#)
+*   🧠  I'm learning Three Js to improve my 3d skills and sharpening my Backend skills
 *   🤝  I'm open to collaborating on any ThreeJS or FullStack Applications
 *   
 <p align="left">
